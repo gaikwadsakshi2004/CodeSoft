@@ -15,7 +15,7 @@ public class NumberGame {
             int attempts = 0;
             int maxAttempts = 5;
 
-            System.out.println("\nI’m Thinking a Number between 1 and 100");
+            System.out.println("\n The Number between 1 and 100");
             System.out.println("You have " + maxAttempts + " attempts to guess it!");
             System.out.println("\n....Let Start To Play....");
             while (attempts < maxAttempts) {
@@ -45,3 +45,4 @@ public class NumberGame {
         sc.close();
     }
 }
+
