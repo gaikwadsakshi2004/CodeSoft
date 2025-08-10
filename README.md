@@ -35,7 +35,7 @@ A Java program where:
 ---
 
 ## 🔗 Connect with Me  
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/sakshigaikwad02)  
+- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/sakshigaikwad02)  
 - **GitHub:** [Your GitHub Profile](https://github.com/gaikwadsakshi2004)  
 
 ---
