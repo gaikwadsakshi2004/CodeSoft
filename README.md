@@ -26,7 +26,7 @@ A Java program that:
 - Assigns a grade based on percentage.  
 - Displays results in a clean console format.  
 
-**File:** [`Task2_StudentResult]()  
+**File:** [`Task2_StudentResult](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/StudentResult.java)  
 
 ## 🛠️ Tech Stack  
 - **Language:** Java  
