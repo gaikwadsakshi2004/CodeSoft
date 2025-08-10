@@ -16,9 +16,17 @@ A Java program where:
 - The user has to guess the number with hints (`Too High` / `Too Low`).
 - Limited number of attempts and scoring system.
 
-**File:** link ----[ program files]( https://github.com/gaikwadsakshi2004/CodeSoft.git)
+**File:** link ----[Task1_ NumberGame]( https://github.com/gaikwadsakshi2004/CodeSoft.git)
+                  *----------------------------*
 
+### **Task 2 - Student Grade Calculator**  
+A Java program that:  
+- Takes marks for multiple subjects.  
+- Calculates **Total Marks** and **Average Percentage**.  
+- Assigns a grade based on percentage.  
+- Displays results in a clean console format.  
 
+**File:** [`Task2_StudentResult]()  
 
 ## 🛠️ Tech Stack  
 - **Language:** Java  
