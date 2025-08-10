@@ -35,8 +35,8 @@ A Java program where:
 ---
 
 ## 🔗 Connect with Me  
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/sakshigaikwad02)  
-- **GitHub:** [Your GitHub Profile](https://github.com/gaikwadsakshi2004)  
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sakshigaikwad02)  
+- **GitHub:** [My GitHub Profile](https://github.com/gaikwadsakshi2004)  
 
 ---
 **#codsoft #javadevelopment #internship**
