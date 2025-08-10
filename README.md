@@ -16,7 +16,7 @@ A Java program where:
 - The user has to guess the number with hints (`Too High` / `Too Low`).
 - Limited number of attempts and scoring system.
 
-**File:** link ----[Task1_ NumberGame]( https://github.com/gaikwadsakshi2004/CodeSoft.git)
+**File:** link ----[Task1_ NumberGame]( https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/NumberGame.java)
  
  
  ### **Task 2 - Student Grade Calculator**  
