@@ -17,9 +17,9 @@ A Java program where:
 - Limited number of attempts and scoring system.
 
 **File:** link ----[Task1_ NumberGame]( https://github.com/gaikwadsakshi2004/CodeSoft.git)
-                  *----------------------------*
-
-### **Task 2 - Student Grade Calculator**  
+ 
+ 
+ ### **Task 2 - Student Grade Calculator**  
 A Java program that:  
 - Takes marks for multiple subjects.  
 - Calculates **Total Marks** and **Average Percentage**.  
