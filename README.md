@@ -28,6 +28,15 @@ A Java program that:
 
 **File:** [`Task2_StudentResult](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/StudentResult.java)  
 
+ ### **Task 3 - ATM Interface**  
+A Java program that:  
+- Check account balance  
+- Deposit money into account  
+- Withdraw money with balance check  
+- User-friendly console menu  
+- Loop-based interaction until user exits
+  **File:** [`Task3_ATM]()
+
 ## 🛠️ Tech Stack  
 - **Language:** Java  
 - **IDE:** Eclipse / IntelliJ IDEA / VS Code  
