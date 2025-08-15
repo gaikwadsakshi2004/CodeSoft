@@ -49,19 +49,22 @@ A Java program that:
 
   **File:** [Task4_Currency Converter ](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/CurrencyConverter.java)
 
+ ### **Task 5 -Student Management System **  
+A Java program that:  
+- Add a new student (Name, Roll No, Grade)
+- Remove student by Roll No
+- Search student by Roll No
+- Display all student records
+- Input validation to prevent empty fields
+- Runs entirely in memory (no file or database needed)
+
+**File:** [Task5_STUDENT MANAGEMENT SYSTEM ](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/StudentApp.java)
 
 
 ## 🛠️ Tech Stack  
 - **Language:** Java  
 - **IDE:** Eclipse / IntelliJ IDEA / VS Code  
 - **Version Control:** Git & GitHub  
-
----
-
-## 📽️ Demo Videos  
-- Task 1: [Video Link](#)  
-- Task 2: [Video Link](#)  
-- Task 3: [Video Link](#)  
 
 ---
 
