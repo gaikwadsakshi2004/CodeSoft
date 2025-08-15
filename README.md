@@ -37,7 +37,19 @@ A Java program that:
 - Loop-based interaction until user exits
 
 
-  **File:** [`Task3_ATM](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/ATM.java)
+  **File:** [Task3_ATM](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/ATM.java)
+
+ ### **Task 4 -Currency Converter **  
+A Java program that:  
+- Allows currency selection (base & target)
+- Accepts user input for amount
+- Uses fixed exchange rates (offline)
+- Displays converted amount with currency codes
+- Beginner-friendly Java console program
+
+  **File:** [Task4_Currency Converter ](https://github.com/gaikwadsakshi2004/CodeSoft/blob/main/CurrencyConverter.java)
+
+
 
 ## 🛠️ Tech Stack  
 - **Language:** Java  
